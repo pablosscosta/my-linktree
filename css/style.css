@@ -51,7 +51,7 @@ i {
     border-radius: 50%;    /* Torna a imagem redonda */
     object-fit: cover;     /* Faz a imagem preencher o círculo sem distorcer */
     object-position: center; /* Centraliza a imagem dentro do círculo */
-    margin-bottom: 20px;   /* Espaço entre a imagem e os botões */
+    margin-bottom: 5px;   /* Espaço entre a imagem e os botões */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Sombra na imagem */
 }
 
@@ -59,5 +59,5 @@ i {
     font-size: 18px;
     font-weight: bold;
     color: #333;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
